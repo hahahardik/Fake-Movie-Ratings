@@ -1,9 +1,6 @@
 # Projects
 
-
 This repo contains some fun and some "serious" projects I created. Here is a brief description of the projects.
-
-----
 
 ## [Fake Movie Ratings](https://github.com/hahahardik/Projects/tree/main/Fake-Movie-Ratings)
 
