@@ -11,3 +11,11 @@ In this project I have tried to perform a statistical analysis of data.The analy
 The data is taken from [FiveThirtyEight's GitHub](https://github.com/fivethirtyeight/data). The data consits of two .csv files, one with Fandango Stars and Displayed Ratings, and the other with aggregate data for movie ratings from other sites, like [Metacritic](https://www.metacritic.com/), [IMDB](https://www.imbd.com/), and [Rotten Tomatoes](https://www.rottentomatoes.com/).
 
 ----
+
+## Analysis of Advertising Expenditure and its Effeect on Sales
+
+In this mini-project I have tried to build a model based on Linear Regression. This is just an detailed attempt to reproduce the results of an example taken from *Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013*
+
+The sample data used to train and test the model is also taken from the same.
+
+----
