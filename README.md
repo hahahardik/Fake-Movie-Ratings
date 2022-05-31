@@ -22,4 +22,6 @@ The folder contains models based on
 1. Linear Regression
 2. Polynomial Regression
 
+The deployed models are saved in `.joblib` files.
+
 ----
