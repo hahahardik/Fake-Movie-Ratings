@@ -16,7 +16,7 @@ The data is taken from [FiveThirtyEight's GitHub](https://github.com/fivethirtye
 
 In this mini-project I have tried to build a model which analyses the effect of different media of advertising like TV, newspaper, and Radio on total sales. This is just an detailed attempt to reproduce the results of an example taken from *Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013*
 
-The sample data used to train and test the model is also taken from the same and contains a `.csv` file with the sales and the advertising expenditure on each medium.
+The sample data used to train and test the model is also taken from the same and contains a `.csv` file. It displays sales (in thousands of units) for a particular product as a function of advertising budgets (in thousands of dollars) for TV, radio, and newspaper media.
 
 The folder contains models based on
 1. Linear Regression
