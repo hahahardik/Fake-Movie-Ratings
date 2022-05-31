@@ -6,16 +6,22 @@ This repo contains some fun and some "serious" projects I created. Here is a bri
 
 If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets. Do they have a bias towards rating movies higher than they should be rated?
 
-In this project I have tried to perform a statistical analysis of data.The analysis is based on an article [Be Suspicious Of Online Movie Ratings](http://fivethirtyeight.com/features/fandango-movies-ratings/), Especially Fandango’s by [FiveThirtyEight](https://fivethirtyeight.com/).
+In this project I have tried to perform a statistical analysis of data. The analysis is based on an article [Be Suspicious Of Online Movie Ratings](http://fivethirtyeight.com/features/fandango-movies-ratings/), especially Fandango’s by [FiveThirtyEight](https://fivethirtyeight.com/).
 
-The data is taken from [FiveThirtyEight's GitHub](https://github.com/fivethirtyeight/data). The data consits of two .csv files, one with Fandango Stars and Displayed Ratings, and the other with aggregate data for movie ratings from other sites, like [Metacritic](https://www.metacritic.com/), [IMDB](https://www.imbd.com/), and [Rotten Tomatoes](https://www.rottentomatoes.com/).
+The data is taken from [FiveThirtyEight's GitHub](https://github.com/fivethirtyeight/data). The data consits of two `.csv` files, one with Fandango Stars and Displayed Ratings, and the other with aggregate data for movie ratings from other sites, like [Metacritic](https://www.metacritic.com/), [IMDB](https://www.imbd.com/), and [Rotten Tomatoes](https://www.rottentomatoes.com/).
 
 ----
 
-## Analysis of Advertising Expenditure and its Effeect on Sales
+## Analysis of Advertising Expenditure and its Effect on Sales
 
-In this mini-project I have tried to build a model based on Linear Regression. This is just an detailed attempt to reproduce the results of an example taken from *Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013*
+In this mini-project I have tried to build a model which analyses the effect of different media of advertising like TV, newspaper, and Radio on total sales. This is just an detailed attempt to reproduce the results of an example taken from *Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013*
 
-The sample data used to train and test the model is also taken from the same.
+The sample data used to train and test the model is also taken from the same and contains a `.csv` file. It displays sales (in thousands of units) for a particular product as a function of advertising budgets (in thousands of dollars) for TV, radio, and newspaper media.
+
+The folder contains models based on
+1. Linear Regression
+2. Polynomial Regression
+
+The deployed models are saved in `.joblib` files.
 
 ----
