@@ -14,8 +14,13 @@ The data is taken from [FiveThirtyEight's GitHub](https://github.com/fivethirtye
 
 ## Analysis of Advertising Expenditure and its Effeect on Sales
 
-In this mini-project I have tried to build a model based on Linear Regression. This is just an detailed attempt to reproduce the results of an example taken from *Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013*
+In this mini-project I have tried to build a model. This is just an detailed attempt to reproduce the results of an example taken from *Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013*
 
 The sample data used to train and test the model is also taken from the same.
+
+The folder contains models based on
+1. Linear Regression
+2. Polynomial Regression
+
 
 ----
