@@ -12,7 +12,7 @@ The data is taken from [FiveThirtyEight's GitHub](https://github.com/fivethirtye
 
 ----
 
-## Analysis of Advertising Expenditure and its Effeect on Sales
+## Analysis of Advertising Expenditure and its Effect on Sales
 
 In this mini-project I have tried to build a model which analyses the effect of different media of advertising like TV, newspaper, and Radio on total sales. This is just an detailed attempt to reproduce the results of an example taken from *Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013*
 
